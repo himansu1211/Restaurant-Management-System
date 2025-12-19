@@ -2,6 +2,9 @@
 
 A comprehensive Python-based GUI application for managing restaurant billing and orders. Built using Tkinter, this system allows users to select food and drink items, calculate totals, generate receipts, and perform basic calculations.
 
+
+**Note:** This is a desktop GUI application designed to run locally on Windows, macOS, or Linux systems. It is not a web application and cannot be deployed to web platforms like Heroku, GitHub Pages, or web servers. Attempting to deploy it as a web app will result in errors such as "404 page not found" because Tkinter requires a local desktop environment to display the GUI.
+
 ## Features
 
 - **Menu Management**: Select from a variety of drinks (Cocktail, Iced Tea, Hot Chocolate, etc.) and Filipino dishes (Fried Chicken, Kare Kare, Crispy Pata, etc.)
